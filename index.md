@@ -1,6 +1,6 @@
-## Hi, my name is Najib
+# Muhammad Najib
 
-System Administrator | Linux | Blockchain
+### System Administrator | Linux | Blockchain
 
 Welcome to my personal website. I enjoy building and benchmarking infrastructure, exploring open-source technologies, and sharing practical experiences through research and community activities.
 
