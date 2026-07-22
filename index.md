@@ -3,10 +3,7 @@ System Administrator | Linux | Blockchain
 
 Welcome to my personal website. I enjoy building and benchmarking infrastructure, exploring open-source technologies, and sharing practical experiences through research and community activities.
 
-* GitHub: [https://github.com/najibun](https://github.com/najibun)
-* LinkedIn: [https://linkedin.com/in/najibun](https://linkedin.com/in/najibun)
-
-## Publications
+### Publications
 - <a href="https://ejournal.uin-suka.ac.id/saintek/cybersecurity/article/view/3929" target="_blank">Security Auditor Implementation for Standardization of Server Installation on SaaS Services Using CIS Benchmark</a>  
   *Journal of Cyber Security and Digital Forensics, 2024*
 
@@ -15,4 +12,6 @@ Welcome to my personal website. I enjoy building and benchmarking infrastructure
 
 - <a href="https://etd.repository.ugm.ac.id/penelitian/detail/263182" target="_blank">Pengembangan Smart Contract dalam Jaringan Blockchain untuk Perlindungan Data Pribadi Ijazah Perguruan Tinggi</a>  
   *Master's Thesis, Universitas Gadjah Mada, 2025*
-
+  
+### Contact
+<a href="https://github.com/najibun" target="_blank">GitHub</a> | <a href="https://linkedin.com/in/najibun" target="_blank">LinkedIn</a> | <a href="https://instagram.com/najibun.najib" target="_blank">Instagram</a>
