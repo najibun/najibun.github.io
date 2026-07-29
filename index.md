@@ -13,7 +13,7 @@ Welcome to my personal website. I enjoy building and benchmarking infrastructure
 - <a href="https://ieeexplore.ieee.org/document/10730106" target="_blank">Landscape of Research on Blockchain in Indonesia: A Systematic Literature Review</a>  
   *IEEE Conference Publication, ICITISEE, 2024*
 
-- <a href="https://etd.repository.ugm.ac.id/penelitian/detail/263182" target="_blank">Pengembangan Smart Contract dalam Jaringan Blockchain untuk Perlindungan Data Pribadi Ijazah Perguruan Tinggi</a>  
+- <a href="https://etd.repository.ugm.ac.id/penelitian/detail/263182" target="_blank">Smart Contract Development in Blockchain Network for Personal Data Protection of College Diplomas</a>  
   *Master's Thesis, Universitas Gadjah Mada, 2025*
   
 
